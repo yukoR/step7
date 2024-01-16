@@ -5,7 +5,7 @@
 @section('content')
 
         <div class="container">
-            <div><h1>ログイン画面・編集してみた</h1></div>
+            <div><h1>ログイン画面</h1></div>
             <div>
                 
             <form action="#" method="post">
