@@ -1,0 +1,11 @@
+#toSignUpBtn{
+    width: 200px;
+    border-radius: 20px;
+    background-color: #ff8dfb;
+}
+
+#backBtn{
+    width: 50px;
+    border-radius: 20px;
+    background-color: #56c1ff;
+}
